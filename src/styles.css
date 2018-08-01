@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: url("http://wri-india.org/sites/default/files/styles/large/public/Cars%20In%20Delhi_Tico-Flickr.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+}
+html {
+  height: 100%;
+}
+ul li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+.nav-items {
+  float: right;
+  margin-top: -50px;
+  display: inline-flex;
+}
+
+hr {
+  border: 3px double pink;
+}
+form {
+  width: 400px;
+  background-color: antiquewhite;
+  text-align: center;
+  margin-left: 40%;
+}
+.myregistration input {
+  min-width: 160px;
+}
+.myregistration div {
+  margin-bottom: 10px;
+}
+.myregistration .form-details {
+  padding-top: 40px;
+}
+.myregistration .reg-submit {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
